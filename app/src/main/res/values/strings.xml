@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Uygulama Adı</string>
+    <string name="greeting">Merhaba, Dünya!</string>
+</resources>
